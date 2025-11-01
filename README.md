@@ -1,1 +1,1 @@
-i made a Spy Sentimental chatbot which detects your emotion based of your response and also contains emojis and polarity levels
+i made a rule based chatbot which asks which destination you want to go to and also will give some suggestions to.
