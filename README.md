@@ -1,1 +1,1 @@
-i made a rule based chatbot which asks which destination you want to go to and also will give some suggestions to.
+I made a character hit animations and death animations spritesheet.
